@@ -62,10 +62,19 @@ El ciclo de vida de una nueva funcionalidad o corrección es el siguiente:
 6.  **Lanzamiento a Producción**: Una vez que `release` está validada y libre de errores críticos, se fusiona con `main`. En este punto, se crea un *tag* con el número de la versión (ej. `git tag -a v1.1.0`) y se procede al despliegue a producción.
 
  # Cómo Empezar (Getting Started)
-*Notas de como empezar*
+*Para el siguiente proyecto se necesitan conocimientos en los siguientes lenguajes de programación:*
+- JavaScript
+- CSS
 
-# Instalación
-*(Instrucciones paso a paso para instalar las dependencias del proyecto).*
-## npm install
-## Despliegue (Deployment)
-*Como se debde hacer el despliegue*
+*Además de conocer* **React y NextJS**
+
+**Una vez dicho esto es necesario clonar el repositorio con el siguiente comando**
+*git clone https://github.com/Carmona52/aplicacionCitas.git*
+
+*Ya clonado procederemos a ir a la carpeta donde clonamos el repositorio y hacer los siguientes pasos*
+
+# Instalación de librerias y dependencias
+**npm install**
+
+# Ejecución del proyecto
+**npm run dev** 
