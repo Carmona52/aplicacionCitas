@@ -1,1 +1,1 @@
-console.log("No funcionó tu protección de ramas")
+console.log("Protección de la Rama Main, solo el propietario la puede modificar");
